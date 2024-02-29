@@ -1,0 +1,41 @@
+
+
+body{
+    color : purple;
+    text-align : center;
+  } 
+  
+  #Nombre_de_la_mascota
+  {
+    /*Escribe un código para agregar color al texto*/
+  }
+  
+  img
+  {
+    border: 10px solid lightgrey;
+    border-radius: 20px;
+    width:350px;
+  
+  }
+  .fact1
+  {
+  /*Agrega las propiedades para obtener el output esperado*/
+  }
+  
+  
+  h3
+  {
+    color: red;
+    font-size: 20px;
+  
+  }
+  a
+  {
+    font-size: 20px;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 2px;
+    padding: 10px;  
+  }
+  
+  
